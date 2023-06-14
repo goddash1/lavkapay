@@ -4,7 +4,7 @@ window.function = function (body_input) {
 // const gliderecip = String(in_recip.value) ?? "";
 const body = String(body_input.value) ?? "";
 
-const secret = 'nj8KUPUHuPxrGYLz4O64kkxs96JM9mqVcta4WJygcWvjzY0uJodv2wCT0M9ojVBpD67BLLy2vKKZKVQQVZ9QKLRyGALCzvNd3BAPovobmqC2kMzKz5sI9HOMblPK8RmzFG2vVqV92aYjWJldUjKvKFjhe5ut4eeTeiu73YYF2DL5W3hGc5xNdvn7vNqv2nvBOxQVyAheGm2aBck7BQVskrzLLbsDtriSOu9oQFquLImR7AQDrn7SiagTm9o5PUqf';
+const secret = 'UPfmEVdtD4orLswnnNtc3gM1bgDOnOpynj2ApFNgfxxGM41BVkehZb1B4iCKTS6M4PJ23HUUCuAxVcgrPssmiFQUEQQd5Cky39jOcuXgiqDbhGKAtd5C8Pd2U0xEYi9H7kLzELYv7JF46eV9H7guvaeEvRD4JAvMTkFZdqT4nHXlUIXsbmqM43VePAURww4MDirU0Q07qMdby8TCHQhc6OLUb77HMtvJ5vVm4ELljW0OP5FjdioZAK9BSUyMb2o4';
 // const data = {
 //   currencyID: 3,
 //   amount: glideamount,
